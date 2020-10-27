@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello and welcome.
+
+Here you'll find some of my past projects. If you're looking at my work, I encourage you to [visit my website](https://www.bradzickafoose.com/work).
+
+Currently an Associate Product Lead at [Lambda School](https://lambdaschool.com/), the Google Ventures-funded tech academy that has raised over $122 million. Additionally, I work with businesses as a freelance developer and designer and with full-stack developers as a industry mentor.
+
+You can also find me on: [LinkedIn](https://www.linkedin.com/in/bradzickafoose), [Spotify](https://open.spotify.com/user/bzickafoose), and [Twitter](https://twitter.com/bradzickafoose)
+
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=bradzickafoose&show_icons=true&theme=dark)](https://github.com/bradzickafoose)
 
 <!--
 **bradzickafoose/bradzickafoose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
